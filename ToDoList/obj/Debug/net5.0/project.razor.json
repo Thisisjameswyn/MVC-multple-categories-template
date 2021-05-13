@@ -15639,8 +15639,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\Views\\Items\\CreateForm.cshtml",
-      "TargetPath": "Views\\Items\\CreateForm.cshtml",
+      "FilePath": "d:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\Views\\Items\\New.cshtml",
+      "TargetPath": "Views\\Items\\New.cshtml",
       "FileKind": "mvc"
     },
     {
