@@ -60,7 +60,6 @@ D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.RazorCor
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Items\CreateForm.cshtml.g.cs
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Items\DeleteAll.cshtml.g.cs
-D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Items\Index.cshtml.g.cs
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Items\Show.cshtml.g.cs
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.RazorTargetAssemblyInfo.cache
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.RazorTargetAssemblyInfo.cs
@@ -70,3 +69,6 @@ D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ref\ToDoList.dll
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.pdb
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.genruntimeconfig.cache
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.csproj.CopyComplete
+D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Categories\New.cshtml.g.cs
+D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Categories\Show.cshtml.g.cs

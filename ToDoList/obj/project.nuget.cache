@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bPOh0pWOl2/XJZcUV3VlBCW18Faki81QXGzDwjfPkwGVzFxCl6o64/Xzph1nHQF2MQo3TpCzwiGLOSl4xxvs5Q==",
+  "dgSpecHash": "i6zYWAkp9Dd44m9eriQsSdUaR7gX7acvrcuisZOJGHwAq99ytwSP01jeNMNrbQNvNNJZrAdI76Vzy5Sz5NtyYg==",
   "success": true,
-  "projectFilePath": "D:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\ToDoList.csproj",
+  "projectFilePath": "D:\\Epicodus\\ToDoList.Solution - Copy\\todolist\\ToDoList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

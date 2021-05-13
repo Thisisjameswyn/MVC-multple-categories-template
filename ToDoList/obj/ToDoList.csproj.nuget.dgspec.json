@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\ToDoList.csproj": {}
+    "D:\\Epicodus\\ToDoList.Solution - Copy\\todolist\\ToDoList.csproj": {}
   },
   "projects": {
-    "D:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\ToDoList.csproj": {
+    "D:\\Epicodus\\ToDoList.Solution - Copy\\todolist\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "D:\\Epicodus\\ToDoList.Solution - Copy\\todolist\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "D:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\ToDoList.csproj",
+        "projectPath": "D:\\Epicodus\\ToDoList.Solution - Copy\\todolist\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "D:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\obj\\",
+        "outputPath": "D:\\Epicodus\\ToDoList.Solution - Copy\\todolist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config"
