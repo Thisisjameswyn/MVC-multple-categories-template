@@ -58,7 +58,6 @@ D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.TagHelpe
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.TagHelpers.output.cache
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.RazorCoreGenerate.cache
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Items\CreateForm.cshtml.g.cs
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Items\DeleteAll.cshtml.g.cs
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Items\Show.cshtml.g.cs
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.RazorTargetAssemblyInfo.cache
@@ -72,3 +71,7 @@ D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\ToDoList.csproj.C
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Categories\New.cshtml.g.cs
 D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Categories\Show.cshtml.g.cs
+D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Home\FavoritePhotos.cshtml.g.cs
+D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Items\New.cshtml.g.cs
+D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Epicodus\ToDoList.Solution - Copy\todolist\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs

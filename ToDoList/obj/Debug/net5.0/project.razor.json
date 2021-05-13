@@ -15634,6 +15634,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\Views\\Home\\FavoritePhotos.cshtml",
+      "TargetPath": "Views\\Home\\FavoritePhotos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -15646,6 +15651,16 @@
     {
       "FilePath": "d:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\Views\\Items\\DeleteAll.cshtml",
       "TargetPath": "Views\\Items\\DeleteAll.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Epicodus\\ToDoList.Solution - Copy\\ToDoList\\Views\\Shared\\Footer.cshtml",
+      "TargetPath": "Views\\Shared\\Footer.cshtml",
       "FileKind": "mvc"
     },
     {
